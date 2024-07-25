@@ -61,7 +61,7 @@ nav ul li a {
 }
 
 .home-background {
-    background-image: url("E:\\Simplotel\\img1.jpg");
+    background-image: url("img1.jpg");
     min-height: 90vh;
     background-size: cover;
     background-position: center;
